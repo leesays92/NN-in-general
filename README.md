@@ -4,3 +4,4 @@
 * Sampling with or without replacement
 * [PyTorch] Training with multi-GPUs
 * [PyTorch] Custom DataLoader
+* [PyTorch] Neural Network pipeline
